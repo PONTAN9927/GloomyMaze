@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "OST_intern_Ball",
+"productVersion": "0.1",
+"dataUrl": "OST_intern_Ball_WebGL.data.unityweb",
+"wasmCodeUrl": "OST_intern_Ball_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "OST_intern_Ball_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
